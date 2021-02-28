@@ -2,7 +2,7 @@
 #include<fstream>
 #include<windows.h>
 using namespace std;
-// hrdd
+// hrddghghghg
 class login{
     protected:
     int readid,wcoun=0,radmin;
